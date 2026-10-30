@@ -1,0 +1,35 @@
+{
+    "type": "group",
+    "terms": [
+        {
+            "type": "slot_range",
+            "source": "this",
+            "slots": "hotbar.*"
+        },
+        {
+            "type": "slot_range",
+            "source": "this",
+            "slots": "inventory.*"
+        },
+        {
+            "type": "slot_range",
+            "source": "this",
+            "slots": "armor.*"
+        },
+        {
+            "type": "slot_range",
+            "source": "this",
+            "slots": "weapon.offhand"
+        },
+        {
+            "type": "slot_range",
+            "source": "this",
+            "slots": "player.cursor"
+        },
+        {
+            "type": "slot_range",
+            "source": "this",
+            "slots": "player.crafting.*"
+        }
+    ]
+}

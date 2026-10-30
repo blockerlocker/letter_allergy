@@ -1,0 +1,11 @@
+{
+    "type": "entity_properties",
+    "entity": "this",
+    "predicate": {
+        "slots": {
+            "contents": {
+                "items": "#letter_allergy:all"
+            }
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Players take damage when in the presence of any block, item, or mob that contains a B.",
+        "min_format": 125,
+        "max_format": 125
+    }
+}

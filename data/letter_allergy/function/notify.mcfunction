@@ -1,0 +1,1 @@
+title @s actionbar {text:"There is a B nearby...",color:yellow}
